@@ -15,8 +15,3 @@
 local.properties
 
 # Project exclude paths
-/app/
-/Ejercicio1/
-/gradle/
-/MyApplication/
-/Proyecto1/
